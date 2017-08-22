@@ -1,0 +1,6 @@
+org/alidata/odps/udf/arima/ARIMATest.class
+org/alidata/odps/udf/arima/ARIMAModel.class
+org/alidata/odps/udf/arima/ARMAMethod.class
+org/alidata/odps/udf/arima/MAModel.class
+org/alidata/odps/udf/arima/ARModel.class
+org/alidata/odps/udf/arima/ARMAModel.class
